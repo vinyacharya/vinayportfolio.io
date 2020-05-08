@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vinayportfolio/static/css/main.c8585616.chunk.css",
+    "main.js": "/vinayportfolio/static/js/main.8cdbffda.chunk.js",
+    "main.js.map": "/vinayportfolio/static/js/main.8cdbffda.chunk.js.map",
+    "runtime-main.js": "/vinayportfolio/static/js/runtime-main.742e4c99.js",
+    "runtime-main.js.map": "/vinayportfolio/static/js/runtime-main.742e4c99.js.map",
+    "static/js/2.e0ba28e0.chunk.js": "/vinayportfolio/static/js/2.e0ba28e0.chunk.js",
+    "static/js/2.e0ba28e0.chunk.js.map": "/vinayportfolio/static/js/2.e0ba28e0.chunk.js.map",
+    "index.html": "/vinayportfolio/index.html",
+    "precache-manifest.f9c2a2577c387193964330bc16bae26b.js": "/vinayportfolio/precache-manifest.f9c2a2577c387193964330bc16bae26b.js",
+    "service-worker.js": "/vinayportfolio/service-worker.js",
+    "static/css/main.c8585616.chunk.css.map": "/vinayportfolio/static/css/main.c8585616.chunk.css.map",
+    "static/js/2.e0ba28e0.chunk.js.LICENSE.txt": "/vinayportfolio/static/js/2.e0ba28e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.742e4c99.js",
+    "static/js/2.e0ba28e0.chunk.js",
+    "static/css/main.c8585616.chunk.css",
+    "static/js/main.8cdbffda.chunk.js"
+  ]
+}
