@@ -1,2 +1,0 @@
-# vinayportfolio.io
-#Hoo
